@@ -1,0 +1,14 @@
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\bin\Debug\netcoreapp2.0\NetCoreSample.Business.deps.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\bin\Debug\netcoreapp2.0\NetCoreSample.Business.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\bin\Debug\netcoreapp2.0\NetCoreSample.Business.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\obj\Debug\netcoreapp2.0\NetCoreSample.Business.csprojAssemblyReference.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\obj\Debug\netcoreapp2.0\NetCoreSample.Business.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\obj\Debug\netcoreapp2.0\NetCoreSample.Business.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\obj\Debug\netcoreapp2.0\NetCoreSample.Business.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\obj\Debug\netcoreapp2.0\NetCoreSample.Business.csproj.CopyComplete
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\obj\Debug\netcoreapp2.0\NetCoreSample.Business.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business\obj\Debug\netcoreapp2.0\NetCoreSample.Business.pdb

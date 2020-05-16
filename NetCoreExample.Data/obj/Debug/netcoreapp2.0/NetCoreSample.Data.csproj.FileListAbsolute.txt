@@ -1,0 +1,12 @@
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\bin\Debug\netcoreapp2.0\NetCoreSample.Data.deps.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\bin\Debug\netcoreapp2.0\NetCoreSample.Data.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\bin\Debug\netcoreapp2.0\NetCoreSample.Data.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\obj\Debug\netcoreapp2.0\NetCoreSample.Data.csprojAssemblyReference.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\obj\Debug\netcoreapp2.0\NetCoreSample.Data.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\obj\Debug\netcoreapp2.0\NetCoreSample.Data.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\obj\Debug\netcoreapp2.0\NetCoreSample.Data.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\obj\Debug\netcoreapp2.0\NetCoreSample.Data.csproj.CopyComplete
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\obj\Debug\netcoreapp2.0\NetCoreSample.Data.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Data\obj\Debug\netcoreapp2.0\NetCoreSample.Data.pdb

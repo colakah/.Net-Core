@@ -1,0 +1,8 @@
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.deps.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\obj\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\obj\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\obj\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\obj\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample.Business.Contracts\obj\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.pdb

@@ -1,0 +1,39 @@
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.deps.json
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.runtimeconfig.json
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.runtimeconfig.dev.json
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.dll
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.pdb
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.csprojResolveAssemblyReference.cache
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.csproj.CoreCompileInputs.cache
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.AssemblyInfoInputs.cache
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.AssemblyInfo.cs
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.dll
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.pdb
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.dll
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.dll
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.pdb
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.pdb
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.dll
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.dll
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.pdb
+c:\users\barisb\source\repos\NetCoreSample\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.deps.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.runtimeconfig.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.runtimeconfig.dev.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Business.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\bin\Debug\netcoreapp2.0\NetCoreSample.Data.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.csprojAssemblyReference.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.csproj.CopyComplete
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreSample\obj\Debug\netcoreapp2.0\NetCoreSample.pdb

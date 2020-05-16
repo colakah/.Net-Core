@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "NetCoreExample.Business/1.0.0": {
+        "dependencies": {
+          "NetCoreExample.Business.Contracts": "1.0.0",
+          "NetCoreExample.Data.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "NetCoreExample.Business.dll": {}
+        }
+      },
+      "NetCoreExample.Business.Contracts/1.0.0": {
+        "runtime": {
+          "NetCoreExample.Business.Contracts.dll": {}
+        }
+      },
+      "NetCoreExample.Data.Contracts/1.0.0": {
+        "runtime": {
+          "NetCoreExample.Data.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetCoreExample.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetCoreExample.Business.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetCoreExample.Data.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,40 @@
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.deps.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.runtimeconfig.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.runtimeconfig.dev.json
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.Contracts.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.Contracts.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.pdb
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.csprojAssemblyReference.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.csproj.CopyComplete
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.dll
+C:\Users\AHMET\Desktop\NetCoreSample-master (2)\NetCoreSample-master\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.pdb
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.deps.json
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.runtimeconfig.json
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.runtimeconfig.dev.json
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.dll
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.pdb
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.Contracts.dll
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.dll
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.Contracts.dll
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.dll
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.Contracts.pdb
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Business.pdb
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.Contracts.pdb
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\bin\Debug\netcoreapp2.0\NetCoreExample.Data.pdb
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.csprojAssemblyReference.cache
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.csproj.CoreCompileInputs.cache
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.AssemblyInfoInputs.cache
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.AssemblyInfo.cs
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.csproj.CopyComplete
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.dll
+C:\Users\AHMET\Desktop\Projeler\NetCoreExampleProject\NetCoreExample\obj\Debug\netcoreapp2.0\NetCoreExample.pdb
